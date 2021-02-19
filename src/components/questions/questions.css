@@ -1,0 +1,31 @@
+.column {
+    float: left;
+  }
+  .row{
+      width: 100%;
+  }
+  
+  .left {
+    width: 18%;
+    background-color: white;
+    min-height: 100vh;
+    border-right: 1px solid #d6d9dc;
+  }
+  .right{
+      width: 22%;
+      background-color: white;
+      min-height: 100vh;
+  }
+  .middle {
+    width: 58.5%;
+    background-color: white;
+    min-height: 100%;
+  }
+  .top{
+    padding-left: 20px;
+    
+  }
+  h2{
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 500;
+  }

@@ -1,0 +1,49 @@
+.google{
+    background-color: white;
+    margin:4px 0px;
+    margin-top: 20px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0px;
+    border-radius: 4px;
+    padding: 8px;
+    width: 280px;
+    font-weight: bold;
+}
+.google img{
+    height: 20px;
+    padding-right: 10px;
+}
+.github{
+    background-color: #2F3337;
+    margin:4px 0px;
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0px;
+    border-radius: 4px;
+    padding: 8px;
+    font-weight: bold;
+    width: 280px;
+}
+.github img{
+    height: 20px;
+    width: 30px;
+    padding-right: 10px;
+}
+.facebook{
+    background-color: #385499;
+    margin:4px 0px;
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0px;
+    border-radius: 4px;
+    padding: 8px;
+    width: 280px;
+    font-weight: bold;
+}
+.facebook img{
+    height: 20px;
+    width: 30px;
+}
