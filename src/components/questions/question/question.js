@@ -40,7 +40,7 @@ function Question({ question }) {
                     <small className="reputation">
                         {question.owner.reputation}
                     </small>
-                    <Link to={"/users"+question.owner.user_id+"/"+question.owner.display_name}>  
+                    <Link to={"/users/"+question.owner.user_id+"/"+question.owner.display_name}>  
                     <small className="userlink">
                         {question.owner.display_name}
                     </small>

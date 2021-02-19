@@ -1,10 +1,8 @@
 import React, {useState, useEffect} from 'react';
 import Question from './question/question';
 import './questions.css';
-import questions from './data';
 import { getQuestions } from '../../utils/apiUtil';
 import { v4 as uuidv4 } from 'uuid';
-
 function Questions() {
     const [questions, setQuestions] = useState([])
     const loadQuestions = () =>{

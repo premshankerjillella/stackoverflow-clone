@@ -1,0 +1,45 @@
+.column {
+    float: left;
+  }
+  .row{
+      width: 100%;
+      
+  }
+  
+  .parta {
+    width: 18%;
+    float: left;
+    background-color: white;
+    min-height: 100vh;
+    border-right: 1px solid #d6d9dc;
+  }
+  .partb{
+      width: 81%;
+      float: left;
+      background-color: white;
+      min-height: 100vh;
+      padding-left: 10px;
+  }
+  .profileimagediv{
+      border: 1px solid black;
+      width:130px;
+      margin: 20px 20px 20px 20px;
+      float: left;
+      border:20px solid #d6d9dc;
+  }
+
+.userdetails{
+    float: left;
+    margin-left: 30px;
+}
+.userinfo{
+    width: 100%;
+    height: 250px;
+    border-bottom: 1px solid black;
+}
+.toptags{
+    border-bottom: 1px solid black;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
